@@ -1,4 +1,4 @@
-# ProjetoHTML-CSS
+# Projeto Marmoraria Decore Granitos
 ## Esse projeto foi feito para uma marmoraria fictícia, em busca de colocar em prática os conhecimentos de HTML5 e CSS3.
 As imagens abaixo representam o projeto: 
 
